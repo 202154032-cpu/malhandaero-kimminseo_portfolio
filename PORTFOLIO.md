@@ -30,7 +30,7 @@
   1. API 키 보안 구조 설계
   - OpenAI API 키가 클라이언트에 노출되어 유출되는 것을 방지하기 위해 서버리스 아키텍처 도입
   2. Cloud Functions 구현, 배포
-  - `Firebase Cloud Functions`를 통해 Whisper 음성인식 및 GPT-5.6 Luna 일정 추출 API를 안전하게 연 동, 배포
+  - Firebase Cloud Function를 통해 Whisper 음성인식 및 GPT-5.6 Luna 일정 추출 API를 안전하게 연동, 배포
   3. 와이어프레임 2, 4차 버전 제작
   4. UI/UX 평가 및 오류 수정
   - 알림 표시, 실패 안내, 글자 크기 관련 오류를 찾아 수정
