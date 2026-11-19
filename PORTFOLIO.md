@@ -8,7 +8,7 @@
 
 📌 프로젝트 개요
 진행 기간: 2026.09 ~ 2026.11
-* 개발 인원: 2명 백엔드 서버리스, 보안 구조 설계 및 고령층 특화 UI/UX 개선 오류 수정 담당
+* 개발 인원: 2명 (백엔드 서버리스, 보안 구조 설계 및 고령층 특화 UI/UX 개선 오류 수정 담당)
 * 사용 기술: 'Flutter' 'Dart' 'Firebase Cloud Functions' 'OpenAI Whisper' 'GPT-5.6 Luna'
 
 
